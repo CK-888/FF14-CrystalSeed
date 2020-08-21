@@ -1,0 +1,13 @@
+header {
+	background-color: black;
+	display: flex;
+	position: fixed;
+}
+
+header ul {
+	display: flex;
+}
+
+.container {
+	display: grid;
+}
