@@ -97,7 +97,7 @@ body {
 }
 
 .img-darken {
-	transition: 1s;
+	transition: 0.5s;
 	filter: brightness(10%);
 }
 
