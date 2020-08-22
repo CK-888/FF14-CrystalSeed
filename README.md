@@ -31,5 +31,4 @@ github pagesにアクセスするとサイトが見れるよ
 ※一番上にある「View Deployment」をクリックしてね〜  
 
 
-
 おわり
