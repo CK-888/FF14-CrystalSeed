@@ -24,7 +24,7 @@ github pagesにアクセスするとサイトが見れるよ
 ### 方法
 
 1. 左上にある「< > Code」タブをクリック
-1. 「< > Code」の画面で、右側に表示されている「Environment」の「github-pages」をクリック  
+1. 「< > Code」の画面で、右側に表示されている「Environment」の「github-pages」をクリック  
 ※ロケットのアイコンが目印
 1. 「View Deployment」ボタンをクリック
 ※これで表示されるはず
